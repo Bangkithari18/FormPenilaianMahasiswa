@@ -1,0 +1,17 @@
+C:\Project\VB\modul-visual-7\FormPenilaianMahasiswa\FormPenilaianMahasiswa\bin\Debug\net6.0-windows\FormPenilaianMahasiswa.exe
+C:\Project\VB\modul-visual-7\FormPenilaianMahasiswa\FormPenilaianMahasiswa\bin\Debug\net6.0-windows\FormPenilaianMahasiswa.deps.json
+C:\Project\VB\modul-visual-7\FormPenilaianMahasiswa\FormPenilaianMahasiswa\bin\Debug\net6.0-windows\FormPenilaianMahasiswa.runtimeconfig.json
+C:\Project\VB\modul-visual-7\FormPenilaianMahasiswa\FormPenilaianMahasiswa\bin\Debug\net6.0-windows\FormPenilaianMahasiswa.dll
+C:\Project\VB\modul-visual-7\FormPenilaianMahasiswa\FormPenilaianMahasiswa\bin\Debug\net6.0-windows\FormPenilaianMahasiswa.pdb
+C:\Project\VB\modul-visual-7\FormPenilaianMahasiswa\FormPenilaianMahasiswa\obj\Debug\net6.0-windows\FormPenilaianMahasiswa.vbproj.AssemblyReference.cache
+C:\Project\VB\modul-visual-7\FormPenilaianMahasiswa\FormPenilaianMahasiswa\obj\Debug\net6.0-windows\FormPenilaianMahasiswa.Form1.resources
+C:\Project\VB\modul-visual-7\FormPenilaianMahasiswa\FormPenilaianMahasiswa\obj\Debug\net6.0-windows\FormPenilaianMahasiswa.vbproj.GenerateResource.cache
+C:\Project\VB\modul-visual-7\FormPenilaianMahasiswa\FormPenilaianMahasiswa\obj\Debug\net6.0-windows\FormPenilaianMahasiswa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\VB\modul-visual-7\FormPenilaianMahasiswa\FormPenilaianMahasiswa\obj\Debug\net6.0-windows\FormPenilaianMahasiswa.AssemblyInfoInputs.cache
+C:\Project\VB\modul-visual-7\FormPenilaianMahasiswa\FormPenilaianMahasiswa\obj\Debug\net6.0-windows\FormPenilaianMahasiswa.AssemblyInfo.vb
+C:\Project\VB\modul-visual-7\FormPenilaianMahasiswa\FormPenilaianMahasiswa\obj\Debug\net6.0-windows\FormPenilaianMahasiswa.vbproj.CoreCompileInputs.cache
+C:\Project\VB\modul-visual-7\FormPenilaianMahasiswa\FormPenilaianMahasiswa\obj\Debug\net6.0-windows\FormPenilaianMahasiswa.dll
+C:\Project\VB\modul-visual-7\FormPenilaianMahasiswa\FormPenilaianMahasiswa\obj\Debug\net6.0-windows\refint\FormPenilaianMahasiswa.dll
+C:\Project\VB\modul-visual-7\FormPenilaianMahasiswa\FormPenilaianMahasiswa\obj\Debug\net6.0-windows\FormPenilaianMahasiswa.pdb
+C:\Project\VB\modul-visual-7\FormPenilaianMahasiswa\FormPenilaianMahasiswa\obj\Debug\net6.0-windows\FormPenilaianMahasiswa.genruntimeconfig.cache
+C:\Project\VB\modul-visual-7\FormPenilaianMahasiswa\FormPenilaianMahasiswa\obj\Debug\net6.0-windows\ref\FormPenilaianMahasiswa.dll
